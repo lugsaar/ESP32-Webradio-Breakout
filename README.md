@@ -17,7 +17,9 @@ coming later
 ## current state
 
 
-![ESP32-Webradio-Breakout.jpg](./ESP32-Webradio-Breakout.jpg)
+![ESP32-Webradio-Breakout-top.png](./ESP32-Webradio-Breakout-top.png)
+
+![ESP32-Webradio-Breakout-bottom.png](./ESP32-Webradio-Breakout-bottom.png)
 
 
 
@@ -25,3 +27,4 @@ coming later
 
 - [Dominik](mailto:dominik@lug-saar.de) (LUG-Saar)
 - [Manfred](mailto:mancas@lug-saar.de) (LUG-Saar)
+- [Thomas](mailto:mase@setho.org) (TKS)

@@ -4081,7 +4081,7 @@
     (property "Value" "WC1602A" (id 1) (at 343.6494 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Display:WC1602A" (id 2) (at 341.63 199.39 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" (id 2) (at 341.63 199.39 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf" (id 3) (at 359.41 176.53 0)
@@ -4651,7 +4651,7 @@
     (property "Value" " 8.2 uH/1.5 A/0.08 W" (id 1) (at 75.819 46.863 90)
       (effects (font (size 0.8128 0.8128)))
     )
-    (property "Footprint" "Inductor_SMD:L_AVX_LMLP07A7" (id 2) (at 76.708 45.72 0)
+    (property "Footprint" "Inductor_THT:L_Axial_L14.5mm_D5.8mm_P20.32mm_Horizontal_Fastron_HBCC" (id 2) (at 76.708 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 76.708 45.72 0)
@@ -5563,7 +5563,7 @@
       (reference "D2") (unit 1) (value "1N4001") (footprint "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal")
     )
     (path "/031eb1d7-d1d9-4f4b-983d-0672a0b9b149"
-      (reference "DS1") (unit 1) (value "WC1602A") (footprint "Display:WC1602A")
+      (reference "DS1") (unit 1) (value "WC1602A") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical")
     )
     (path "/de588ed9-a530-46f0-aa03-e0307ff72286"
       (reference "J1") (unit 1) (value "Conn_01x02") (footprint "TerminalBlock_RND:TerminalBlock_RND_205-00287_1x02_P5.08mm_Horizontal")
@@ -5578,7 +5578,7 @@
       (reference "J4") (unit 1) (value "Conn_01x02") (footprint "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm")
     )
     (path "/6f462a43-fddc-4a67-950c-ae5029d95ab6"
-      (reference "L1") (unit 1) (value " 8.2 uH/1.5 A/0.08 W") (footprint "Inductor_SMD:L_AVX_LMLP07A7")
+      (reference "L1") (unit 1) (value " 8.2 uH/1.5 A/0.08 W") (footprint "Inductor_THT:L_Axial_L14.5mm_D5.8mm_P20.32mm_Horizontal_Fastron_HBCC")
     )
     (path "/aebcee85-771a-411d-bbca-6bc46bbc6b26"
       (reference "Q1") (unit 1) (value "BC547") (footprint "Package_TO_SOT_THT:TO-92_Inline")
