@@ -25922,17 +25922,19 @@
       )
     )
   )
-  (group "node mcu" (id 8a4d40e0-2a62-4717-bf7e-3a1e4447df2b)
-    (members
-      3bab4270-2c31-432c-b8cf-6b4e1cf00fd4
-      f5413c94-6fe6-46be-8577-dd2a47c23d96
-    )
-  )
-  (group "i2C" (id bd74e2a3-0c12-4ff9-b590-61342f5cc014)
+  (group "I2C" (id bd74e2a3-0c12-4ff9-b590-61342f5cc014)
     (members
       92cd0891-8e93-4baf-a84f-794095b8fab6
       d0405f15-49ce-4cee-a402-cfd7817dc5ad
       f057acbe-b8eb-4b19-a9ad-8f2a4b8d9460
+    )
+  )
+  (group "NodeMCU" (id f433516a-8bcd-42a8-bf81-2892bab0f977)
+    (members
+      2421d7a2-1cf5-4d9e-b788-d9282916362d
+      3bab4270-2c31-432c-b8cf-6b4e1cf00fd4
+      6aa6acdb-1650-44b5-9977-b355b257c3a8
+      f5413c94-6fe6-46be-8577-dd2a47c23d96
     )
   )
 )
