@@ -11,9 +11,9 @@ coming later
 ## current state
 
 
-![ESP32-Webradio-SMT-top.png](./ESP32-Webradio-SMT-top.png)
+![ESP32-Webradio-Breakout-top.png](./ESP32-Webradio-Breakout-top.png)
 
-![ESP32-Webradio-SMT-bottom.png](./ESP32-Webradio-SMT-bottom.png)
+![ESP32-Webradio-Breakout-bottom.png](./ESP32-Webradio-Breakout-bottom.png)
 
 
 
