@@ -1456,10 +1456,10 @@
       (net 40 "/Enc_SW") (pinfunction "S1") (pintype "passive") (tstamp 3deb75e1-c82a-4726-ae2a-0af43bdefaf4))
     (pad "S2" thru_hole circle (at 14.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "S2") (pintype "passive") (tstamp db91e518-00bd-4b7d-91f5-9b6dfa785230))
-    (model "${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KIPRJMOD}/3D Models/EC11_Rotary_Encoder_Switched.wrl"
+      (offset (xyz 7.5 -2.5 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 90))
     )
   )
 
