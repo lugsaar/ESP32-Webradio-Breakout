@@ -1,6 +1,4 @@
 (fp_lib_table
-  (lib (name "RCJ-041")(type "KiCad")(uri "${KIPRJMOD}/Libraries/RCJ-041")(options "")(descr ""))
-  (lib (name "RCJ-042")(type "KiCad")(uri "${KIPRJMOD}/Libraries/RCJ-042")(options "")(descr ""))
   (lib (name "ESP32-NodeMCU_WROOM_32")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ESP32-NodeMCU_WROOM_32/ESP32-NodeMCU_WROOM_32.pretty")(options "")(descr ""))
   (lib (name "OSHW_logo_KiCad")(type "Legacy")(uri "${KIPRJMOD}/Libraries/OSHW_logo_KiCad_scalable/lib")(options "")(descr ""))
 )

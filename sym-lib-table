@@ -1,6 +1,4 @@
 (sym_lib_table
-  (lib (name "RCJ-041")(type "Legacy")(uri "${KIPRJMOD}/Libraries/RCJ-041/RCJ-041.lib")(options "")(descr ""))
-  (lib (name "RCJ-042")(type "Legacy")(uri "${KIPRJMOD}/Libraries/RCJ-042/RCJ-042.lib")(options "")(descr ""))
   (lib (name "ESP32-NodeMCU_WROOM_32")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ESP32-NodeMCU_WROOM_32/ESP32-NodeMCU_WROOM_32.kicad_sym")(options "")(descr ""))
   (lib (name "OSHW_logo")(type "KiCad")(uri "${KIPRJMOD}/Libraries/OSHW_logo_KiCad_scalable/lib/OSHW_logo.kicad_sym")(options "")(descr ""))
   (lib (name "LUG-Saar_logo")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LUG-Saar_logo.kicad_sym")(options "")(descr ""))
