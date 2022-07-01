@@ -454,7 +454,7 @@
 
   (footprint "" locked (layer "F.Cu")
     (tedit 0) (tstamp 6a34f323-5b2b-47da-be67-aecba3b4b2e6)
-    (at 28.85 45.8)
+    (at 28.85 45.1)
     (attr board_only exclude_from_bom)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -994,7 +994,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" locked (layer "F.Cu")
     (tedit 59FED5CC) (tstamp f698f53d-0378-4128-b32d-0d8d90618ce9)
-    (at 28.85 37.35)
+    (at 28.85 36.65)
     (descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x01 2.54mm single row")
     (property "Sheetfile" "ESP32-Webradio-Breakout.kicad_sch")
@@ -2845,7 +2845,7 @@
   (gr_line locked (start 25 25) (end 93 25) (layer "Edge.Cuts") (width 0.1) (tstamp 0ea92f3f-820c-4178-80e7-e189435ac528))
   (gr_line locked (start 93 25) (end 93 56) (layer "Edge.Cuts") (width 0.1) (tstamp 210b7192-b195-4cd4-b182-479151a3b2a6))
   (gr_line locked (start 25 56) (end 25 25) (layer "Edge.Cuts") (width 0.1) (tstamp 8a546030-5a42-4610-9439-88832130f81a))
-  (gr_text "TOUCH" (at 31 37.35 90) (layer "B.SilkS") (tstamp 0b407da0-92a2-4325-8a96-2a5c720c93b1)
+  (gr_text "TOUCH" (at 31 36.65 90) (layer "B.SilkS") (tstamp 0b407da0-92a2-4325-8a96-2a5c720c93b1)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "SDA" (at 79 29.275 270) (layer "B.SilkS") (tstamp 38acff29-ebb9-4214-a443-cdb276a01ec9)
